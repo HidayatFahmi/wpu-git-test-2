@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Sukses</h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi nesciunt rem est id dicta tempore alias beatae, veniam, molestiae veritatis, doloribus iste aspernatur quidem similique esse rerum nihil repellat voluptate?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, impedit dicta, minus mollitia ullam placeat possimus, error ad dolor provident consequuntur blanditiis reprehenderit vero odio repellendus officiis assumenda culpa incidunt!</p>
 </body>
 </html>
